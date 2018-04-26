@@ -20,6 +20,8 @@ Members Folder:
 Inside the members folder you will find a Compressed/Exported version of the private members area.
 You can Extract it using the Wpress-Extractor tool (https://github.com/fifthsegment/Wpress-Extractor) and by placing both the compressed  version of the file (with the .wpress extension) and the Wpress-Extractor (.exe) tool within the same folder and then opening the command line, get the folder path using the 'cd PATHOFTHEFOLDER' command and then using the 'wpress-extractor filename.wpress'.
 
+PS: I uploaded a compressed version of the '.wpress' file only because Github doesn't allow file uploads bigger than 25MB.
+
 
 Contact Page:
 
